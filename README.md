@@ -1,7 +1,6 @@
 <h1 align="center">Hi there👋, I'm Athiwat Sitthinanwatthana (Bank)</h1>
 <h3 align="center">I'm just a programmer who have passion and fun about coding.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
